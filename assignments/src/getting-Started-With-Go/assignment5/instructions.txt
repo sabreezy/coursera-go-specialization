@@ -1,0 +1,5 @@
+3 points will be given if a program is written.
+
+2 points will be given if the program compiles correctly.
+
+5 points will be given if the program correctly prints a JSON object with keys ("name", "address") and they are associated with the name and address that was entered.
